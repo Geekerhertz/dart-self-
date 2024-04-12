@@ -61,3 +61,6 @@ void main(List<String> args) {
     print(deci);
   } while (numb < 10);
 }
+///Hey there thanks for checking my progress, loops actually showed me premium shege
+///but alas i figured it out, explanations from experts in the field also helped. 
+///don't be afraid to make mistakes. cheers!-t
